@@ -1,75 +1,19 @@
-# React + TypeScript + Vite
+Welcome to Maple mountain!
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+You are the pimp/madame of this prestigious establishment. It's not just a bordello for dragons, it's a lifestyle, a reprieve of basic evolutionary impulses which have debilitated the male gender for several millennia. Each dragoness strips the drake after copulation by consuming the male's DICK... at least one of them. You see it's become an arms race between genders. Drakes developed several penises to allow themselves multiple copulation until they run out of what's been provided by mother nature.
 
-Currently, two official plugins are available:
+There are still the unlucky ones, for example inspector Susu (the one dicked drake) was not so fortunate. At any rate, males are being very careful around dragonesses and a matriarchal society was a no-brainer. It came to being as naturally as feet sandwiches during the rise of the internet.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Times have changed... technological advancement brought to light new ideas and the birth of dildos was among the first. Initially the pleasure of females was the main focus. It enabled continued female pleasure at the expense of male irreplacability. However, dissident scientist working in the shadows with barely any funding have been cooking. A groundbreaking invention that will stir society and upset the matriarchal balance and bureaucratic power structure.
 
-## React Compiler
+Prostitution has always existed but heavily prosecuted. The male need for continues pleasure and copulation; however, was lucrative. The prostitutes, driven by instinct try to strip the male off of his manhood but several drakes held the hooker back. Services like this have existed for the wealthy only.
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+Something is brewing. A prominent bordello called Maple Mountain's R&D has discovered something groundbreaking. A dildo that can be attached to males and provides full sensory response. Females can even bite it off, the male won't feel pain and the appendage is easily replaceable for a small price if full automation and huge production chains are built. Naturally, the patent was filed quickly for the device.
 
-Note: This will impact Vite dev & build performances.
+Such invention is now in your hands. It's your job to change the world as it is. Introduce the new product. Change the way you conduct business and allow your hookers to express their sexuality freely and guzzle all the dicks they want. Let their and your clients natural impulses run rampant. You can do research and make it more tasty for them, make it vibrate, several heads, weird shapes, discover kinks etc. Go deep into research, protect yourself from infiltration, corporate espionage, government regulation and hire lawyers for effective tax evasion. Fight off dissident voices and deal with protests that are soon to come. Hold press conferences and invest heavily into marketing. Shape the future however you want. You can make it bloody, or peaceful or something in between. It's up to you!
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+This is an unhinged personal project of mine that I'm using to learn React and TS, Maybe Next.js too as I'm learning and making progress. I used to be a frontend developer and I have worked with React before. I want to bring myself up to speed with a project I would enjoy.
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+This idea has occurred to me over 10 years ago during my university studies when we were just hanging out at the dorm smoking with my friends. It has come back to 'haunt' me since the idea seems funny, unhinged and even shows some potential at the same time. So here we go, I'm executing on it now. Here goes nothing!

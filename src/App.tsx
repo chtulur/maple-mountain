@@ -1,9 +1,19 @@
+import React from 'react'
 import './App.css'
+import {Routes, Route} from 'react-router-dom'
+import Navbar from './Components/Navbar'
+import {Home, HookerManagement, RnD} from './Tabs'
 
-function App() {
+const App = (): React.ReactElement => {
   return (
     <>
-      <div>hi</div>
+      <Navbar />
+
+      <Routes>
+        <Route path='/' element={<Home />} />
+        <Route path='hooker-management' element={<HookerManagement />} />
+        <Route path='rnd' element={<RnD />} />
+      </Routes>
     </>
   )
 }
