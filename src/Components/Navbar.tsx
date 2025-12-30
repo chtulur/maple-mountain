@@ -1,11 +1,12 @@
 import {Link} from 'react-router-dom'
+import Navbar from './Navbar-styled'
 
-const Navbar = (): React.ReactElement => (
-  <nav>
+const Nav = (): React.ReactElement => (
+  <Navbar className='navbar bg-gray-800'>
     <Link to='/'>Home</Link>
     <Link to='/hooker-management'>Hooker Management</Link>
     <Link to='/rnd'>R&D</Link>
-  </nav>
+  </Navbar>
 )
 
-export default Navbar
+export default Nav

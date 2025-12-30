@@ -1,13 +1,13 @@
 import React from 'react'
 import './App.css'
 import {Routes, Route} from 'react-router-dom'
-import Navbar from './Components/Navbar'
+import Nav from './Components/Navbar'
 import {Home, HookerManagement, RnD} from './Tabs'
 
 const App = (): React.ReactElement => {
   return (
     <>
-      <Navbar />
+      <Nav />
 
       <Routes>
         <Route path='/' element={<Home />} />
