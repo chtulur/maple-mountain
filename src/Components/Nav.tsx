@@ -1,23 +1,23 @@
 import {useLocation} from 'react-router-dom'
-import {StyledNav, StyledLink} from './Nav-styled'
-import {StyledNavWrapper} from './Nav-styled'
+import {StyledNav, StyledLink} from '../styles/layout/Nav-styled'
+import {StyledNavWrapper} from '../styles/layout/Nav-styled'
 
-const Nav = (): React.ReactElement => {
-  const location = useLocation()
+const Nav = () => {
+  const pathname = useLocation().pathname
 
   return (
     <StyledNavWrapper>
-      <StyledNav className='navbar'>
-        <StyledLink $isSelected={location.pathname === '/'} to='/'>
+      <StyledNav>
+        <StyledLink $isSelected={pathname === '/'} to='/'>
           Home
         </StyledLink>
         <StyledLink
-          $isSelected={location.pathname === '/hooker-management'}
+          $isSelected={pathname === '/hooker-management'}
           to='/hooker-management'
         >
           Hooker Management
         </StyledLink>
-        <StyledLink $isSelected={location.pathname === '/rnd'} to='/rnd'>
+        <StyledLink $isSelected={pathname === '/rnd'} to='/rnd'>
           R&D
         </StyledLink>
       </StyledNav>
