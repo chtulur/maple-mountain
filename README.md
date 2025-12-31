@@ -1,6 +1,6 @@
 Welcome to Maple mountain!
 
-You are the pimp/madame of this prestigious establishment. It's not just a bordello for dragons, it's a lifestyle, a reprieve of basic evolutionary impulses which have debilitated the male gender for several millennia. Each dragoness strips the drake after copulation by consuming the male's DICK... at least one of them. You see it's become an arms race between genders. Drakes developed several penises to allow themselves multiple copulation until they run out of what's been provided by mother nature.
+You are the pimp/madame of this prestigious establishment. It's not just a bordello for dragons, it's a lifestyle, a reprieve for basic evolutionary impulses which have debilitated the male gender for several millennia. Each dragoness strips the drake after copulation by consuming the male's DICK... at least one of them. You see it's become an arms race between genders. Drakes developed several penises to allow themselves multiple copulation until they run out of what's been provided by mother nature.
 
 There are still the unlucky ones, for example inspector Susu (the one dicked drake) was not so fortunate. At any rate, males are being very careful around dragonesses and a matriarchal society was a no-brainer. It came to being as naturally as feet sandwiches during the rise of the internet.
 
